@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-<<<<<<< HEAD
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
-    <output url="file://$USER_HOME$/Documents" />
-=======
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="IntelliJ IDEA Community Edition IC-193.6911.18" project-jdk-type="IDEA JDK">
     <output url="file://$USER_HOME$/Downloads/Intelliji" />
->>>>>>> 8b864bc58f6e108f5d66e0dc2c76017e43bfb860
   </component>
 </project>
