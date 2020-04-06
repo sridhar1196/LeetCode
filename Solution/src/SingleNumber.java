@@ -2,8 +2,6 @@ import java.util.HashMap;
 import java.util.Set;
 
 public class SingleNumber {
-    public SingleNumber() {
-    }
 
     public static int singleNumber(int[] nums) {
         HashMap<Integer,Integer> check = new HashMap<>();
