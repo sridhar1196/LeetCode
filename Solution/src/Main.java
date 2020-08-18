@@ -1,8 +1,13 @@
 public class Main {
 
     public static void main(String[] args){
-        BSTSearchPreOrder bstSearchPreOrder = new BSTSearchPreOrder();
-        int[] out = new int[]{8,5,1,7,10,12};
-        System.out.println(bstSearchPreOrder.bstFromPreorder(out));
+        IteratorforCombination iterator = new IteratorforCombination("abc", 2);
+
+        System.out.println(iterator.next()); // returns "ab"
+        System.out.println(iterator.hasNext()); // returns true
+        System.out.println(iterator.next()); // returns "ac"
+        System.out.println(iterator.hasNext()); // returns true
+        System.out.println(iterator.next()); // returns "bc"
+        System.out.println(iterator.hasNext()); // returns false
     }
 }
